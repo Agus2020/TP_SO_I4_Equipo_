@@ -1,0 +1,14 @@
+Berasain Ruffo Agustin
+Zubini Mainardi Julian Ignacio
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+- El color de fondo de la página en TESTING es BLUE.
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+- El color de fondo de la página en DESARROLLO es YELLOW.
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+- El color de fondo de la página en MASTER es YELLOW.
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+- Ambos ya que uno es formato favicon.ico y otro es favicon.ico.txt por lo cual no se reemplazaron entre si.
