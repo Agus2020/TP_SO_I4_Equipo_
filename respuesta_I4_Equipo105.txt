@@ -12,3 +12,20 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 - Ambos ya que uno es formato favicon.ico y otro es favicon.ico.txt por lo cual no se reemplazaron entre si.
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+- Si, GAMMA (ALFA) tuvo un problema sobre el merge al hacer el push.
+
+F- ¿Qué problemas surgieron?
+- Aparentemente había un problema al tratar de mergear las ramas secundarias al main
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+- La solución fue borrar las línes que aparecían en el index.html y luego se pudo pushear sin problema, no hubo consecuencias.
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+- Se pone en peligro los commits que se hayan realizado antes del mío, el repo en su totalidad se convierte en lo que yo tengo de forma local sin rastros de lo que había antes.
+
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+- Podría hacer un merge de la rama main a la rama DESARROLLO o descargar la misma y actualizarla a mano.
